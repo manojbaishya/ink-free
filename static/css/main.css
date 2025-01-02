@@ -4,7 +4,7 @@ body {
     font-family: "EB Garamond", serif;
     font-weight: 400;
     color: #333;
-    line-height: 1.2em;
+    line-height: 1.4em;
     font-size: 24px;
 }
 
@@ -65,7 +65,6 @@ fieldset {
 }
 
 table {
-    -ms-overflow-style: -ms-autohiding-scrollbar;
     -webkit-overflow-scrolling: touch;
     background-color: transparent;
     margin-bottom: 1rem;
@@ -495,7 +494,6 @@ ul {
     }
 
     table {
-        -ms-overflow-style: -ms-autohiding-scrollbar;
         -webkit-overflow-scrolling: touch;
         display: block;
         overflow-x: auto;
